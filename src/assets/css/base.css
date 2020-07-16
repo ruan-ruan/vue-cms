@@ -1,0 +1,63 @@
+.user-avator {
+    margin-left: 20px;
+}
+.marL20{
+	margin-left: 20px;
+}
+.marT10{
+	margin-top: 10px;
+}
+.marT5{
+	margin-top:5px ;
+}
+.mar4{
+	margin: 4px;
+}
+.marB10{
+	margin-bottom: 10px;
+}
+.marginB20{
+	margin-bottom: 20px;
+}
+.disInBlock{
+	display: inline-block;
+}
+.ipt{
+	width: 120px !important;
+}
+
+.form_ipt{
+	width: 200px !important;
+}
+.time{
+	width: 330px !important;
+}
+.el-dialog__header{
+	border-bottom:1px solid #8A8888;
+}
+.el-dialog{
+	border-radius: 10px !important;
+}
+.el-button--mini, .el-button--mini.is-round{
+	padding: 7px 2px !important;
+}
+.el-table th>.cell{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+.backGreen{
+	/*color: #01FD0F;*/
+	color: #fff;
+	display: inline-block;
+	width: 100%;
+	background-color: #76C470;
+}
+.backRed{
+	color: #fff;
+	display: inline-block;
+	width: 100%;
+	background-color: #89898B;
+}
+.cur{
+	cursor: pointer;
+}
